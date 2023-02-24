@@ -179,6 +179,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/PRESISPREMACHANDRAN/ictak_b1fsd_group2.git"
+ },
   "author": "",
   "license": "ISC",
   "description": ""
